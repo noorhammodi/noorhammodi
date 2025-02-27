@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noorhammodi
-- 🌱 I’m currently studying software engineering
+- 🌱 I’m a software engineer
 - 📫 How to reach me: via email : noor.hammodi@gmail.com
 
 <!---
